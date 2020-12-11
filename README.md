@@ -9,3 +9,15 @@
 * Detection Module: Average accuracy -- 92%
 * Trajectory: Average accuracy -- 88%
 * Mitosis detection: Average accuracy -- 86%
+
+* Cell Detection:
+![alt text](https://github.com/Hrolong/Cell-Tracker/blob/master/img/cell-dection.png)
+
+![alt text](https://github.com/Hrolong/Cell-Tracker/blob/master/img/cell-dection-2-3.png)
+
+![alt text](https://github.com/Hrolong/Cell-Tracker/blob/master/img/cell-dection-2-4.png)
+
+* Cell Tracker:
+Find new cells and track each cell
+
+![alt text](https://github.com/Hrolong/Cell-Tracker/blob/master/img/cell-tracker.png)
